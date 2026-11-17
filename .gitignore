@@ -1,0 +1,5 @@
+.env
+media
+geeks-70-1.sqlite3
+.venv/
+__pycache__/
